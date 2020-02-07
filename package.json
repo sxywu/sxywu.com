@@ -1,0 +1,10 @@
+{
+  "name": "sxywu.com",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.11.0"
+  }
+}
