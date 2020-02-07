@@ -1,4 +1,17 @@
-node_modules/
-.nuxt/
-.cache/
-dist/
+# Created by https://www.gitignore.io/api/nuxtjs
+# Edit at https://www.gitignore.io/?templates=nuxtjs
+
+### Nuxtjs ###
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# End of https://www.gitignore.io/api/nuxtjs
